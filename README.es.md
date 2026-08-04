@@ -1,12 +1,8 @@
-# IASI
-
-> **Ingeniería Asistida por Sistemas Inteligentes**
+# Ingeniería Asistida por Sistemas Inteligentes (IASI)
 
 IASI es un ecosistema abierto dedicado a explorar una nueva forma de hacer ingeniería.
 
-Creemos que la aparición de los Sistemas Inteligentes representa un cambio de paradigma comparable a la llegada de Internet, la orientación a objetos o el software libre. No se trata únicamente de incorporar nuevas herramientas, sino de replantear cómo concebimos, diseñamos, construimos y evolucionamos sistemas de software.
-
-IASI nace para recorrer ese camino.
+Creemos que la aparición de los Sistemas Inteligentes representa un cambio de paradigma comparable a la llegada de Internet, la orientación a objetos o el software libre. No se trata únicamente de incorporar nuevas herramientas, sino de replantear cómo concebimos, diseñamos, construimos y evolucionamos sistemas de software, IASI nace para recorrer ese camino.
 
 ---
 
@@ -14,11 +10,7 @@ IASI nace para recorrer ese camino.
 
 Este viaje comienza **desde cero**.
 
-No porque ignoremos las metodologías, tecnologías o herramientas existentes, sino porque no queremos asumir que ninguna de ellas constituya, por sí sola, la respuesta.
-
-Queremos descubrir qué significa realmente hacer ingeniería cuando los Sistemas Inteligentes forman parte del propio proceso de ingeniería.
-
-Por ello:
+No porque ignoremos las metodologías, tecnologías o herramientas existentes, sino porque no queremos asumir que ninguna de ellas constituya, por sí sola, la respuesta, queremos descubrir qué significa realmente hacer ingeniería cuando los Sistemas Inteligentes forman parte del propio proceso de ingeniería. Por ello:
 
 > **No partimos de una metodología para resolver problemas. Partimos de los problemas para descubrir la metodología.**
 
@@ -71,21 +63,14 @@ Cada proyecto puede utilizarse de forma independiente, pero todos forman parte d
 
 IASI no solo publica resultados.
 
-También documenta el camino recorrido.
-
-Las decisiones de arquitectura.
-
-Los experimentos.
-
-Las dudas.
-
-Los errores.
-
-Los cambios de dirección.
-
-Las herramientas descartadas.
-
-Las ideas que funcionaron... y las que no.
+- También documenta el camino recorrido.
+- Las decisiones de arquitectura.
+- Los experimentos.
+- Las dudas.
+- Los errores.
+- Los cambios de dirección.
+- Las herramientas descartadas.
+- Las ideas que funcionaron... y las que no.
 
 Creemos que comprender **cómo** se construye una solución es tan valioso como la propia solución.
 
@@ -95,11 +80,9 @@ Por eso, en IASI, el viaje también forma parte del producto.
 
 # Un proyecto abierto
 
-IASI nace como una iniciativa personal, pero no pretende ser un proyecto personal.
+IASI nace como una iniciativa personal, pero no pretende ser un proyecto personal, está concebido para crecer de forma abierta, incorporando nuevas ideas, herramientas, metodologías y colaboradores.
 
-Está concebido para crecer de forma abierta, incorporando nuevas ideas, herramientas, metodologías y colaboradores.
-
-Toda aportación fundamentada será bienvenida.
+**Toda aportación fundamentada será bienvenida**.
 
 Porque creemos que la Ingeniería Asistida por Sistemas Inteligentes solo puede construirse desde la colaboración, el pensamiento crítico y la experimentación.
 
