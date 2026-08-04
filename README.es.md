@@ -8,7 +8,7 @@ Creemos que la aparición de los Sistemas Inteligentes representa un cambio de p
 
 # Un punto de partida diferente
 
-Este viaje comienza **desde cero**.
+Este viaje comienza **sin precondiciones**.
 
 No porque ignoremos las metodologías, tecnologías o herramientas existentes, sino porque no queremos asumir que ninguna de ellas constituya, por sí sola, la respuesta, queremos descubrir qué significa realmente hacer ingeniería cuando los Sistemas Inteligentes forman parte del propio proceso de ingeniería. Por ello:
 
