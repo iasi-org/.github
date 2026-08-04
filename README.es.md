@@ -5,28 +5,22 @@ IASI es un ecosistema abierto dedicado a explorar una nueva forma de hacer ingen
 Creemos que la aparición de los Sistemas Inteligentes representa un cambio de paradigma comparable a la llegada de Internet, la orientación a objetos o el software libre. No se trata únicamente de incorporar nuevas herramientas, sino de replantear cómo concebimos, diseñamos, construimos y evolucionamos sistemas de software, IASI nace para recorrer ese camino.
 
 ---
+# Nuestra aproximación
 
-# Un punto de partida diferente
+IASI no parte de una metodología predefinida, partimos del problema **sin precondiciones**
 
-Este viaje comienza **sin precondiciones**.
+Creemos que la aparición de los Sistemas Inteligentes obliga a replantear cómo hacemos ingeniería y, por tanto, no queremos asumir que las metodologías actuales constituyan, por sí solas, la respuesta, por ello:
 
-No porque ignoremos las metodologías, tecnologías o herramientas existentes, sino porque no queremos asumir que ninguna de ellas constituya, por sí sola, la respuesta, queremos descubrir qué significa realmente hacer ingeniería cuando los Sistemas Inteligentes forman parte del propio proceso de ingeniería. Por ello:
+> **No adoptamos metodologías para resolver problemas. Partimos de los problemas para descubrir la metodología.**
 
-> **No partimos de una metodología para resolver problemas. Partimos de los problemas para descubrir la metodología.**
+Cada necesidad será analizada de forma independiente.
 
-Cada decisión deberá justificar su existencia.
+- Si una metodología existente ofrece una buena respuesta, la utilizaremos.
+- Si necesita adaptarse, la adaptaremos.
+- Si varias aportan valor, las combinaremos.
+- Y cuando ninguna resulte suficiente, construiremos una nueva.
 
-Si una metodología existente resuelve una necesidad, la utilizaremos.
-
-Si necesita adaptarse, la adaptaremos.
-
-Si varias aportan valor, las combinaremos.
-
-Y si ninguna ofrece una respuesta satisfactoria, construiremos una nueva.
-
-IASI no nace para defender tecnologías.
-
-IASI nace para construir ingeniería.
+No buscamos una metodología universal, buscamos la mejor solución para cada problema.
 
 ---
 
