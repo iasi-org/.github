@@ -49,15 +49,48 @@ We are looking for the best solution to every problem.
 
 IASI is composed of independent but complementary projects.
 
-| Project | Description |
-|----------|-------------|
-| 📖 **iasi-book** | Book and conceptual framework for Engineering Assisted by Intelligent Systems. |
-| 📦 **iasi.quarto** | Framework for professional documentation based on Quarto. |
-| ⚙️ **iasi.lua** | Reusable Lua filters and extensions for Quarto. |
-| 🎨 **iasi.render** | Components related to the rendering process. |
-| 🎨 **iasi.brand** | Visual identity, templates and style guide for the ecosystem *(coming soon)* |
+### 📚 Books
 
-Each project can be used independently while contributing to a common vision.
+| Project | Description |
+|---------|-------------|
+| 📘 **[iasi-book-I](https://github.com/iasi-org/iasi-book-I)** | Volume I of the IASI collection. |
+| 📙 **[iasi-book-II](https://github.com/iasi-org/iasi-book-II)** | Volume II of the IASI collection. |
+| 📗 **[iasi-book-III](https://github.com/iasi-org/iasi-book-III)** | Volume III of the IASI collection. |
+
+### 📖 Manuals
+
+| Project | Description |
+|---------|-------------|
+| 📘 **[iasi-quarto-docs](https://github.com/iasi-org/iasi-quarto-docs)** | Official `iasi.quarto` documentation: user guide, technical guide and related documentation. |
+| 📗 **[iasi-lua-docs](https://github.com/iasi-org/iasi-lua-docs)** | Documentation for the IASI Lua extensions: User Guide and Technical Guide. |
+
+### 🧩 Artifacts and Tools
+
+| Project | Description |
+|---------|-------------|
+| 📦 **[iasi_quarto](https://github.com/iasi-org/iasi_quarto)** | Documentation engineering and reproducible publishing framework based on Quarto. |
+| ⚙️ **[iasi-lua](https://github.com/iasi-org/iasi-lua)** | Reusable Lua filters and extensions for Pandoc and Quarto. |
+| 🏗️ **[iasi-infra](https://github.com/iasi-org/iasi-infra)** | Reproducible development infrastructure and environment for the IASI ecosystem. |
+| 🧰 **[iasi-tools-dev](https://github.com/iasi-org/iasi-tools-dev)** | Tools and commands for developing and operating the IASI ecosystem. |
+| 🧩 **[iasi-common](https://github.com/iasi-org/iasi-common)** | Shared standards, templates, conventions and resources used across IASI projects. |
+| 🖥️ **[iasi-rstudio](https://github.com/iasi-org/iasi-rstudio)** | IASI addin for RStudio. |
+
+### 🧠 Engineering Memory
+
+| Project | Description |
+|---------|-------------|
+| 🧭 **[iasi-journey](https://github.com/iasi-org/iasi-journey)** | Record of the real process: conversations, alternatives, experiments, mistakes and changes of direction. |
+| 🧾 **[iasi-edr](https://github.com/iasi-org/iasi-edr)** | Engineering Decision Records: the central register of IASI engineering decisions. |
+| 🤖 **[iasi-ia](https://github.com/iasi-org/iasi-ia)** | Archive of conversations with AI systems that form part of the engineering process. |
+
+### 🏠 Portal
+
+| Project | Description |
+|---------|-------------|
+| 🏠 **[iasi-home](https://github.com/iasi-org/iasi-home)** | Portal and entry point to the IASI ecosystem. |
+| 🌐 **[iasi-org.github.io](https://github.com/iasi-org/iasi-org.github.io)** | Web publishing repository for the IASI organization. |
+
+Each project can evolve independently while contributing to a common vision.
 
 ---
 
@@ -111,5 +144,3 @@ We believe that Engineering Assisted by Intelligent Systems can only emerge thro
 ---
 
 **IASI**
-
-*Engineering Assisted by Intelligent Systems*
