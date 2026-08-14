@@ -37,7 +37,7 @@ Every need is evaluated independently.
 - If an existing methodology provides the best answer, we will use it.
 - If it needs to be adapted, we will adapt it.
 - If combining multiple approaches provides a better solution, we will combine them.
-- And if none is sufficient, we will build a new one.
+- And when none of them is sufficient, we will build a new one, turning the resulting knowledge into a company asset or releasing it as open source.
 
 We are not looking for a universal methodology.
 
