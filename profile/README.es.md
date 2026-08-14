@@ -34,9 +34,9 @@ IASI está formado por un conjunto de proyectos independientes pero complementar
 
 | Proyecto | Descripción |
 |----------|-------------|
-| 📘 **[iasi-book-VI](https://github.com/iasi-org/iasi-book-VI)** | Volumen VI de la colección IASI. |
-| 📙 **[iasi-book-VII](https://github.com/iasi-org/iasi-book-VII)** | Volumen VII de la colección IASI. |
-| 📗 **[iasi-book-VIII](https://github.com/iasi-org/iasi-book-VIII)** | Volumen VIII de la colección IASI. |
+| 📘 **[iasi-book-I](https://github.com/iasi-org/iasi-book-VI)** | Fundamentos de IASI: principios, conceptos y bases teóricas de la Ingeniería Asistida por Sistemas Inteligentes. |
+| 📙 **[iasi-book-II](https://github.com/iasi-org/iasi-book-VII)** | Laboratorio de IASI: experimentación, descubrimiento y aplicación práctica de sus ideas y componentes. |
+| 📗 **[iasi-book-III](https://github.com/iasi-org/iasi-book-VIII)** | Metodología IASI: formalización del proceso, sus reglas, estructuras, validaciones y mecanismos de aplicación. |
 
 ### 📦 Productos
 
