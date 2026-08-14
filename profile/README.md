@@ -28,7 +28,7 @@ We believe that the emergence of Intelligent Systems requires us to rethink the 
 
 Instead:
 
-> **We do not adopt methodologies to solve problems. We start from problems to discover the methodology.**
+> **We do not adopt methodologies to solve problems. We start from problems to discover the methodology that best fits each one**.
 
 Every need is evaluated independently.
 
