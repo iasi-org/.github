@@ -20,7 +20,7 @@ Cada necesidad será analizada de forma independiente.
 - Si una metodología existente ofrece una buena respuesta, la utilizaremos.
 - Si necesita adaptarse, la adaptaremos.
 - Si varias aportan valor, las combinaremos.
-- Y cuando ninguna resulte suficiente, construiremos una nueva.
+- Y cuando ninguna resulte suficiente, construiremos una nueva, que sera un _asset_ de la compañia u _open source_
 
 No buscamos una metodología universal, buscamos la mejor solución para cada problema.
 
