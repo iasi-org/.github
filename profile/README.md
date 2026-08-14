@@ -22,9 +22,7 @@ IASI exists to explore that journey.
 
 # Our Approach
 
-IASI does not start from a predefined methodology.
-
-We start from the problem, **without preconceptions**.
+IASI does not start from a predefined methodology, we start from the problem, **without preconceptions**.
 
 We believe that the emergence of Intelligent Systems requires us to rethink the way engineering is practiced. Therefore, we do not assume that existing methodologies, by themselves, provide the right answer.
 
