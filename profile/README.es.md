@@ -13,7 +13,7 @@ IASI no parte de una metodología predefinida, partimos del problema **sin preco
 
 Creemos que la aparición de los Sistemas Inteligentes obliga a replantear cómo hacemos ingeniería y, por tanto, no queremos asumir que las metodologías actuales constituyan, por sí solas, la respuesta, por ello:
 
-> **No adoptamos metodologías para resolver problemas. Partimos de los problemas para descubrir la metodología.**
+> **No adoptamos metodologías para resolver problemas. Partimos de los problemas para descubrir la metodología que mejor se adapta a cada problema.**
 
 Cada necesidad será analizada de forma independiente.
 
