@@ -44,7 +44,7 @@ IASI está formado por un conjunto de proyectos independientes pero complementar
 |----------|-------------|
 | 📦 **[iasi-quarto](https://github.com/iasi-org/iasi-quarto)** | Infraestructura para crear libros y sitios web Quarto de forma homogénea, gobernada y reproducible. |
 | ⚙️ **[iasi-lua](https://github.com/iasi-org/iasi-lua)** | Componentes y extensiones Lua reutilizables para Pandoc y Quarto, concebidos para vivir de forma independiente y reutilizarse fuera de IASI. |
-| 📊 **[iasi-graphics](https://github.com/iasi-org/iasi-graphics)** | Compilador declarativo de gráficos basado en Lua y MCP, nacido de necesidades reales de IASI pero utilizable de forma independiente. |
+| 📊 **[[iasi&#8209;graphics](https://github.com/iasi-org/iasi-graphics)](https://github.com/iasi-org/iasi-graphics)** | Compilador declarativo de gráficos basado en Lua y MCP, nacido de necesidades reales de IASI pero utilizable de forma independiente. |
 | 🖥️ **[iasi-rstudio](https://github.com/iasi-org/iasi-rstudio)** | Addin para RStudio que integra capacidades de IASI en el entorno de desarrollo. |
 
 ### 📖 Manuales y documentación
@@ -53,7 +53,7 @@ IASI está formado por un conjunto de proyectos independientes pero complementar
 |----------|-------------|
 | 📘 **[iasi-quarto-docs](https://github.com/iasi-org/iasi-quarto-docs)** | Documentación oficial de `iasi-quarto`: manual de usuario, guía técnica y documentación asociada. |
 | 📗 **[iasi-lua-docs](https://github.com/iasi-org/iasi-lua-docs)** | Documentación de los componentes Lua de IASI: manual de usuario, guía técnica y documentación asociada. |
-| 📙 **[iasi-tools-dev-docs](https://github.com/iasi-org/iasi-tools-dev-docs)** | Documentación de `iasi-tools-dev`, las utilidades utilizadas para desarrollar y mantener el ecosistema IASI. |
+| 📙 **[iasi&#8209;tools&#8209;dev&#8209;docs](https://github.com/iasi-org/iasi-tools-dev-docs)** | Documentación de `iasi-tools-dev`, las utilidades utilizadas para desarrollar y mantener el ecosistema IASI. |
 
 ### 🧩 Infraestructura y artefactos compartidos
 
@@ -66,7 +66,7 @@ IASI está formado por un conjunto de proyectos independientes pero complementar
 
 | Proyecto | Descripción |
 |----------|-------------|
-| 🧰 **[iasi-tools-dev](https://github.com/iasi-org/iasi-tools-dev)** | Utilidades, comandos y automatizaciones para desarrollar, mantener y operar el propio ecosistema IASI. |
+| 🧰 **[iasi&#8209;tools&#8209;dev](https://github.com/iasi-org/iasi-tools-dev)** | Utilidades, comandos y automatizaciones para desarrollar, mantener y operar el propio ecosistema IASI. |
 
 ### 🧠 Memoria de ingeniería
 
