@@ -44,7 +44,7 @@ IASI está formado por un conjunto de proyectos independientes pero complementar
 |----------|-------------|
 | 📦 **[iasi-quarto](https://github.com/iasi-org/iasi-quarto)** | Infraestructura para crear libros y sitios web Quarto de forma homogénea, gobernada y reproducible. |
 | ⚙️ **[iasi-lua](https://github.com/iasi-org/iasi-lua)** | Componentes y extensiones Lua reutilizables para Pandoc y Quarto, concebidos para vivir de forma independiente y reutilizarse fuera de IASI. |
-| 📊 **[[iasi&#8209;graphics](https://github.com/iasi-org/iasi-graphics)](https://github.com/iasi-org/iasi-graphics)** | Compilador declarativo de gráficos basado en Lua y MCP, nacido de necesidades reales de IASI pero utilizable de forma independiente. |
+| 📊 **[iasi&#8209;graphics](https://github.com/iasi-org/iasi-graphics)](https://github.com/iasi-org/iasi-graphics)** | Compilador declarativo de gráficos basado en Lua y MCP, nacido de necesidades reales de IASI pero utilizable de forma independiente. |
 | 🖥️ **[iasi-rstudio](https://github.com/iasi-org/iasi-rstudio)** | Addin para RStudio que integra capacidades de IASI en el entorno de desarrollo. |
 
 ### 📖 Manuales y documentación
