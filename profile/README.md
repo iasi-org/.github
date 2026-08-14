@@ -59,7 +59,7 @@ IASI is composed of independent but complementary projects. Each one has a speci
 |---------|-------------|
 | 📦 **[iasi-quarto](https://github.com/iasi-org/iasi-quarto)** | Infrastructure for creating Quarto books and websites in a consistent, governed and reproducible way. |
 | ⚙️ **[iasi-lua](https://github.com/iasi-org/iasi-lua)** | Reusable Lua components and extensions for Pandoc and Quarto, designed to live independently and be reused beyond IASI. |
-| 📊 **[iasi-graphics](https://github.com/iasi-org/iasi-graphics)** | Declarative graphics compiler based on Lua and MCP, born from real IASI needs but usable independently. |
+| 📊 **[iasi&#8209;graphics](https://github.com/iasi-org/iasi-graphics)** | Declarative graphics compiler based on Lua and MCP, born from real IASI needs but usable independently. |
 | 🖥️ **[iasi-rstudio](https://github.com/iasi-org/iasi-rstudio)** | RStudio addin that brings IASI capabilities into the RStudio development environment. |
 
 ### 📖 Manuals and Documentation
@@ -68,7 +68,7 @@ IASI is composed of independent but complementary projects. Each one has a speci
 |---------|-------------|
 | 📘 **[iasi-quarto-docs](https://github.com/iasi-org/iasi-quarto-docs)** | Official `iasi-quarto` documentation: user guide, technical guide and related documentation. |
 | 📗 **[iasi-lua-docs](https://github.com/iasi-org/iasi-lua-docs)** | Documentation for the IASI Lua components: user guide, technical guide and related documentation. |
-| 📙 **[iasi-tools-dev-docs](https://github.com/iasi-org/iasi-tools-dev-docs)** | Documentation for `iasi-tools-dev`, the utilities used to develop and maintain the IASI ecosystem. |
+| 📙 **[iasi&#8209;tools&#8209;dev&#8209;docs](https://github.com/iasi-org/iasi-tools-dev-docs)** | Documentation for `iasi-tools-dev`, the utilities used to develop and maintain the IASI ecosystem. |
 
 ### 🧩 Infrastructure and Shared Artifacts
 
@@ -81,7 +81,7 @@ IASI is composed of independent but complementary projects. Each one has a speci
 
 | Project | Description |
 |---------|-------------|
-| 🧰 **[iasi-tools-dev](https://github.com/iasi-org/iasi-tools-dev)** | Utilities, commands and automation used to develop, maintain and operate the IASI ecosystem itself. |
+| 🧰 **[iasi&#8209;tools&#8209;dev](https://github.com/iasi-org/iasi-tools-dev)** | Utilities, commands and automation used to develop, maintain and operate the IASI ecosystem itself. |
 
 ### 🧠 Engineering Memory
 
