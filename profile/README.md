@@ -59,8 +59,6 @@ IASI is composed of independent but complementary projects. Each one has a speci
 
 ### 📚 Books
 
-### 📚 Books
-
 | Project                                                           | Description                                                                                                                                        | Main content                                                                                                                                                                                |
 | ----------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 📘 **[iasi-book-I](https://github.com/iasi-org/iasi-book-I)**     | Introductory volume of IASI. It presents its foundations, principles and the context in which Engineering Assisted by Intelligent Systems emerges. | Intelligent Systems, technological foundations, context, IASI principles and the new relationship between engineering and artificial intelligence.                                          |
@@ -83,6 +81,7 @@ IASI is composed of independent but complementary projects. Each one has a speci
 | 📘 **[iasi-quarto-docs](https://github.com/iasi-org/iasi-quarto-docs)** | Official `iasi-quarto` documentation: user guide, technical guide and related documentation. |
 | 📗 **[iasi-lua-docs](https://github.com/iasi-org/iasi-lua-docs)** | Documentation for the IASI Lua components: user guide, technical guide and related documentation. |
 | 📙 **[iasi-tools-dev-docs](https://github.com/iasi-org/iasi-tools-dev-docs)** | Documentation for `iasi-tools-dev`, the utilities used to develop and maintain the IASI ecosystem. |
+| 📙 **[iasi-*-docs]** | Any other docs related to iasi-* repository |
 
 ### 🧩 Infrastructure and Shared Artifacts
 
