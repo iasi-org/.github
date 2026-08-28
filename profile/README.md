@@ -10,7 +10,7 @@
 
 ---
 
-# Intelligence-Assisted Systems Engineering (IASI)
+# Engineering Assisted by Intelligent Systems (IASI)
 
 IASI is an open ecosystem dedicated to exploring a new way of engineering.
 
@@ -22,20 +22,22 @@ IASI exists to explore that journey.
 
 # Our Approach
 
-IASI does not start from a predefined methodology, we start from the problem, **without preconceptions**.
+IASI does not start from a predefined methodology.
+
+We start from the problem, **without preconceptions**.
 
 We believe that the emergence of Intelligent Systems requires us to rethink the way engineering is practiced. Therefore, we do not assume that existing methodologies, by themselves, provide the right answer.
 
 Instead:
 
-> **We do not adopt methodologies to solve problems. We start from problems to discover the methodology that best fits each one**.
+> **We do not adopt methodologies to solve problems. We start from problems to discover the methodology.**
 
 Every need is evaluated independently.
 
 - If an existing methodology provides the best answer, we will use it.
 - If it needs to be adapted, we will adapt it.
 - If combining multiple approaches provides a better solution, we will combine them.
-- And when none of them is sufficient, we will build a new one, turning the resulting knowledge into a company asset or releasing it as open source.
+- And if none is sufficient, we will build a new one.
 
 We are not looking for a universal methodology.
 
@@ -47,19 +49,29 @@ We are looking for the best solution to every problem.
 
 IASI is composed of independent but complementary projects. Each one has a specific role: some capture knowledge, some are products, some document those products, and others build and sustain the ecosystem itself.
 
+### 🧠 IASI Core
+
+| Project | Description |
+|---------|-------------|
+| 🧩 **[iasi-core](https://github.com/iasi-org/iasi-core)** | Foundational IASI project. It contains the definitions, rules, configuration, templates and core mechanisms shared across the ecosystem. |
+| ⌨️ **[iasi-cli](https://github.com/iasi-org/iasi-cli)** | Command-line interface for creating, managing and executing IASI projects. |
+| 🤖 **[iasi-ai](https://github.com/iasi-org/iasi-ai)** | IASI Intelligent Systems capabilities, built on the common base provided by `iasi-core`. |
+
 ### 📚 Books
 
 | Project | Description |
 |---------|-------------|
-| 📘 **[iasi-book-I](https://github.com/iasi-org/iasi-book-I)** | IASI foundations: principles, concepts and theoretical basis of Engineering Assisted by Intelligent Systems. |
-| 📙 **[iasi-book-II](https://github.com/iasi-org/iasi-book-II)** | IASI laboratory: experimentation, discovery and practical application of its ideas and components. |
-| 📗 **[iasi-book-III](https://github.com/iasi-org/iasi-book-III)** | The IASI methodology: formalization of the process, its rules, structures, validations and application mechanisms. |### 📦 Products
+| 📘 **[iasi-book-I](https://github.com/iasi-org/iasi-book-I)** | Volume I of the IASI collection. |
+| 📙 **[iasi-book-II](https://github.com/iasi-org/iasi-book-II)** | Volume II of the IASI collection. |
+| 📗 **[iasi-book-III](https://github.com/iasi-org/iasi-book-III)** | Volume III of the IASI collection. |
+
+### 📦 Products
 
 | Project | Description |
 |---------|-------------|
-| 📊 **[iasi&#8209;graphics](https://github.com/iasi-org/iasi-graphics)** | Declarative graphics compiler based on Lua and MCP, born from real IASI needs but usable independently. |
 | 📦 **[iasi-quarto](https://github.com/iasi-org/iasi-quarto)** | Infrastructure for creating Quarto books and websites in a consistent, governed and reproducible way. |
 | ⚙️ **[iasi-lua](https://github.com/iasi-org/iasi-lua)** | Reusable Lua components and extensions for Pandoc and Quarto, designed to live independently and be reused beyond IASI. |
+| 📊 **[iasi-graphics](https://github.com/iasi-org/iasi-graphics)** | Declarative graphics compiler based on Lua and MCP, born from real IASI needs but usable independently. |
 | 🖥️ **[iasi-rstudio](https://github.com/iasi-org/iasi-rstudio)** | RStudio addin that brings IASI capabilities into the RStudio development environment. |
 
 ### 📖 Manuals and Documentation
@@ -68,7 +80,7 @@ IASI is composed of independent but complementary projects. Each one has a speci
 |---------|-------------|
 | 📘 **[iasi-quarto-docs](https://github.com/iasi-org/iasi-quarto-docs)** | Official `iasi-quarto` documentation: user guide, technical guide and related documentation. |
 | 📗 **[iasi-lua-docs](https://github.com/iasi-org/iasi-lua-docs)** | Documentation for the IASI Lua components: user guide, technical guide and related documentation. |
-| 📙 **[iasi&#8209;tools&#8209;dev&#8209;docs](https://github.com/iasi-org/iasi-tools-dev-docs)** | Documentation for `iasi-tools-dev`, the utilities used to develop and maintain the IASI ecosystem. |
+| 📙 **[iasi-tools-dev-docs](https://github.com/iasi-org/iasi-tools-dev-docs)** | Documentation for `iasi-tools-dev`, the utilities used to develop and maintain the IASI ecosystem. |
 
 ### 🧩 Infrastructure and Shared Artifacts
 
@@ -81,7 +93,7 @@ IASI is composed of independent but complementary projects. Each one has a speci
 
 | Project | Description |
 |---------|-------------|
-| 🧰 **[iasi&#8209;tools&#8209;dev](https://github.com/iasi-org/iasi-tools-dev)** | Utilities, commands and automation used to develop, maintain and operate the IASI ecosystem itself. |
+| 🧰 **[iasi-tools-dev](https://github.com/iasi-org/iasi-tools-dev)** | Utilities, commands and automation used to develop, maintain and operate the IASI ecosystem itself. |
 
 ### 🧠 Engineering Memory
 
@@ -89,7 +101,6 @@ IASI is composed of independent but complementary projects. Each one has a speci
 |---------|-------------|
 | 🧭 **[iasi-journey](https://github.com/iasi-org/iasi-journey)** | Record of the real process: conversations, alternatives, experiments, mistakes and changes of direction. |
 | 🧾 **[iasi-edr](https://github.com/iasi-org/iasi-edr)** | Engineering Decision Records: the central register of IASI engineering decisions. |
-| 🤖 **[iasi-ia](https://github.com/iasi-org/iasi-ia)** | Archive of conversations with AI systems that form part of the engineering process. |
 
 ### 🏠 Portal
 
