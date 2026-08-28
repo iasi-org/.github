@@ -40,8 +40,6 @@ IASI está formado por un conjunto de proyectos independientes pero complementar
 
 ### 📚 Libros
 
-### 📚 Libros
-
 | Proyecto                                                          | Descripción                                                                                                                                         | Contenido principal                                                                                                                                                                   |
 | ----------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 📘 **[iasi-book-I](https://github.com/iasi-org/iasi-book-I)**     | Volumen introductorio de IASI. Presenta sus fundamentos, principios y el contexto en el que surge la Ingeniería Asistida por Sistemas Inteligentes. | Sistemas Inteligentes, fundamentos tecnológicos, contexto, principios de IASI y nueva relación entre ingeniería e inteligencia artificial.                                            |
@@ -71,6 +69,7 @@ IASI está formado por un conjunto de proyectos independientes pero complementar
 |----------|-------------|
 | 🏗️ **[iasi-infra](https://github.com/iasi-org/iasi-infra)** | Infraestructura y entorno reproducible de desarrollo para el ecosistema IASI. |
 | 🧩 **[iasi-common](https://github.com/iasi-org/iasi-common)** | Estándares, plantillas, convenciones y recursos compartidos por los proyectos IASI. |
+| 📙 **[iasi-*-docs]** | Otros repositorios con la documentacion a asociada a iasi-* |
 
 ### 🛠️ Desarrollo del ecosistema
 
