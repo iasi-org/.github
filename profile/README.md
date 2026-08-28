@@ -59,11 +59,13 @@ IASI is composed of independent but complementary projects. Each one has a speci
 
 ### 📚 Books
 
-| Project | Description |
-|---------|-------------|
-| 📘 **[iasi-book-I](https://github.com/iasi-org/iasi-book-I)** | Volume I of the IASI collection. |
-| 📙 **[iasi-book-II](https://github.com/iasi-org/iasi-book-II)** | Volume II of the IASI collection. |
-| 📗 **[iasi-book-III](https://github.com/iasi-org/iasi-book-III)** | Volume III of the IASI collection. |
+### 📚 Books
+
+| Project                                                           | Description                                                                                                                                        | Main content                                                                                                                                                                                |
+| ----------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 📘 **[iasi-book-I](https://github.com/iasi-org/iasi-book-I)**     | Introductory volume of IASI. It presents its foundations, principles and the context in which Engineering Assisted by Intelligent Systems emerges. | Intelligent Systems, technological foundations, context, IASI principles and the new relationship between engineering and artificial intelligence.                                          |
+| 📙 **[iasi-book-II](https://github.com/iasi-org/iasi-book-II)**   | Practical volume of the collection. It brings IASI concepts into experimentation and real-world work through laboratories.                         | Laboratories, hands-on exercises, infrastructure, tools and practical application of the concepts developed in IASI.                                                                        |
+| 📗 **[iasi-book-III](https://github.com/iasi-org/iasi-book-III)** | Volume dedicated to formalizing the IASI methodology and the mechanisms used to apply it.                                                          | Inputs, definitions, rules, configuration, specifications, tasks, validations, states, automations, and transversal mechanisms such as skills, commands, templates, workflows and adapters. |
 
 ### 📦 Products
 
