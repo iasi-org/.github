@@ -10,7 +10,7 @@
 
 ---
 
-# Engineering Assisted by Intelligent Systems (IASI)
+# Engineering Augmented with Intelligent Systems (IASI)
 
 IASI is an open ecosystem dedicated to exploring a new way of engineering.
 
